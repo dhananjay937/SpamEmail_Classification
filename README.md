@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-This project uses Natural Language Processing (NLP) and Machine Learning techniques to build an Email Spam Classification system. The classifier is designed to effectively differentiate between spam and legitimate (ham) emails.
+This project uses Natural Language Processing (NLP) and Machine Learning techniques to build an Email Spam Classification system. The classifier is designed to differentiate between spam and legitimate (ham) emails effectively.
 
 ## ✨ Features
 
@@ -81,6 +81,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 For queries, feel free to reach out:
 
-- **Email:** [your\_email@example.com](mailto\:patildhananjay1307@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/dhananjay-patil-b25423315)
+- **Email:** [patildhananjay1307@gmail.com](mailto\:patildhananjay1307@gmail.com)
+- **LinkedIn:** [Dhananjay_Patil](www.linkedin.com/in/dhananjay-patil-b25423315)
 
